@@ -6,6 +6,7 @@
 * Проект "Путешествие по России" [(ссылка на репозиторий)](https://github.com/Etsugi/russian-travel) - проектная работа: одностраничный сайт с адаптивным дизайном.
 * Проект "Mesto" [(ссылка на репозиторий)](https://github.com/Etsugi/mesto) - проектная работа: одностраничный сайт, где пользователь может создать свой профиль, поделиться изображениями, посмотреть чужие, поставить "лайк".
 * Проект "Mesto-react" [(ссылка на репозиторий front-end)](https://github.com/Etsugi/mesto-react), [(ссылка на репозиторий back-end)](https://github.com/Etsugi/express-mesto) - проектная работа: проект ["Mesto"](https://github.com/Etsugi/mesto), но уже переписанный на React, плюс самостоятельно написанный под него back-end.
+* Проект "Mesto-react-full" [(ссылка на репозиторий)](https://github.com/Etsugi/react-mesto-api-full) - проектная работа: объединение front и back частей приложения Mesto-react и его деплой на ЯндексОблако.
 * Дипломный проект "Movies-explorer" [(ссылка на репозиторий front-end)](https://github.com/Etsugi/movies-explorer-frontend), [(ссылка на репозиторий back-end)](https://github.com/Etsugi/movies-explorer-api) - дипломная работа: приложение с возможностью создания профиля, поиска и сохранения фильмов.
 
 ### Контакты:
