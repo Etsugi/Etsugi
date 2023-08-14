@@ -1,6 +1,7 @@
 # Добрый день!👋 
-# Имя мне - Константин Киприн, и я есть начинающий Front-end разработчик.
+# Имя мне - Константин Киприн, и я есть Front-end разработчик.
 ### В апреле 2021 закончил обучение в [ЯндексПрактикуме](https://praktikum.yandex.ru/profile/web/)
+### С июня 2021 по июль 2023 работал в  [ООО "Тьюрис"](https://tewris.com/)
 
 ### Используемые технологии:
 
@@ -8,18 +9,18 @@
 ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
 ![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
 ![React.js](https://img.shields.io/badge/-React.js-0d1117?style=for-the-badge&logo=React)
+![Type-Script](https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=TypeScript)
 ![Redux](https://img.shields.io/badge/-Redux-0d1117?style=for-the-badge&logo=Redux)
+![MobX](https://img.shields.io/badge/-MobX-0d1117?style=for-the-badge&logo=MobX)
 ![Node](https://img.shields.io/badge/-Node.js-0d1117?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express.js-0d1117?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=for-the-badge&logo=mongodb)
-![Nginx](https://img.shields.io/badge/-Nginx-0d1117?style=for-the-badge&logo=nginx)
-
-### Ближайшие планы по освоению:
-![Type-Script](https://img.shields.io/badge/-TypeScript-0d1117?style=for-the-badge&logo=TypeScript)
-![Vue](https://img.shields.io/badge/-Vue.js-0d1117?style=for-the-badge&logo=vue.js)
-![Nuxt](https://img.shields.io/badge/-Nuxt.js-0d1117?style=for-the-badge&logo=Nuxt.js)
 
 ### Мои работы и опыт:
+* Админ панель проекта [Taker](https://demo.my.taker.io/admin) 
+* Консумерская часть проекта [Taker](https://demo.my.taker.io/)
+
+### Учебные проекты:
 * Проект "Book-search" [(ссылка на репозиторий)](https://github.com/Etsugi/book-search) - одностраничный сайт для поиска книг по названию/автору.
 * Дипломный проект "Movies-explorer" [(ссылка на репозиторий front-end)](https://github.com/Etsugi/movies-explorer-frontend), [(ссылка на репозиторий back-end)](https://github.com/Etsugi/movies-explorer-api) - дипломная работа: приложение с возможностью создания профиля, поиска и сохранения фильмов.
 * Учебный проект "Mesto-react-full" [(ссылка на репозиторий)](https://github.com/Etsugi/react-mesto-api-full) - проектная работа: объединение front и back частей приложения Mesto-react и его деплой на ЯндексОблако.
